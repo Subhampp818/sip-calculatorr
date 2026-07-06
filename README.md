@@ -1,2 +1,2 @@
 # sip-calculatorr
-"SIP &amp; mutual fund calculator built with React"
+"SIP &amp; mutual fund calculator built with claude 
